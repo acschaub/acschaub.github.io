@@ -1,3 +1,7 @@
+---
+permalink: "/publications/"
+layout: page
+---
 
 ## Articles in peer-reviewed scientific journals
 - Schaub, A.C., Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F.*, Schmidt A.* (under review). Brain Alterations in Individuals with Exercise Dependence: A Multimodal Neuroimaging Investigation.
