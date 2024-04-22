@@ -5,8 +5,8 @@ layout: page
 ---
 
 ## Articles in peer-reviewed scientific journals
-- Schaub, A.C., Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F.*, Schmidt A.* (under review). Brain Alterations in Individuals with Exercise Dependence: A Multimodal Neuroimaging Investigation.
-- Schaub, A. C., Vogel, M., Lang, U. E., Kaiser, S., Walter, M., Herdener, M., ... & Schmidt, A. (2023). Transdiagnostic brain correlates of self-reported trait impulsivity: A dimensional structure-symptom investigation. NeuroImage: Clinical, 103423.
+- Schaub, A.-C., Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F.*, Schmidt A.* (under review). Brain Alterations in Individuals with Exercise Dependence: A Multimodal Neuroimaging Investigation.
+- Schaub, A.-C., Vogel, M., Lang, U. E., Kaiser, S., Walter, M., Herdener, M., ... & Schmidt, A. (2023). Transdiagnostic brain correlates of self-reported trait impulsivity: A dimensional structure-symptom investigation. NeuroImage: Clinical, 103423.
 - Yamanbaeva, G.*, Schaub, A.-C.*, Schneider, E., Schweinfurth, N., Kettelhack, C., Doll, J.P.K., … Schmidt, A. (2023). Probiotic treatment effects on fronto-limbic brain structure, function, and perfusion in depression: a post-hoc multimodal neuroimaging analysis. Journal of Affective Disorders, 324, 529-538.
 - Schneider, E., Doll, J. P., Schweinfurth, N., Kettelhack, C., Schaub, A.-C., Yamanbaeva, G., ... & Schmidt, A. (2023). Effect of short-term, high-dose probiotic supplementation on cognition, related brain functions and BDNF in patients with depression: a secondary analysis of a randomized controlled trial. Journal of Psychiatry and Neuroscience, 48(1), E23-E33.
 - Schaub, A.-C., Vogel, M., Baumgartner, S., Lang, U. E., Borgwardt, S., Schmidt, A., & Walter, M. (2022). Striatal resting-state connectivity after long-term diacetylmorphine treatment in opioid-dependent patients. Brain Communications, 4(6), fcac275.
