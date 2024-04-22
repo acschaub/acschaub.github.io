@@ -6,27 +6,17 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
-
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home"}
  # - {file: "About.html", title: "About"}
   - {file: "publications.md", title: "Publications"}
   - {file: "contact.md", title: "Contact"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
- # - {title: Mail, icon: envelope, url: "mailto:annachiara.schaub@unibas.ch"}
- # - {title: Github, icon: github, url: "https://github.com/acschaub"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
