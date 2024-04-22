@@ -4,6 +4,20 @@ title: Home
 ---
 
 <div class="container">
-  <img src="images/Anna_Schaub-2023-005_©_Samuel_Bramley-WEB.jpg" width="256" height="350">
-  <p>I'm a psychologist and postdoctoral researcher in clinical neuroscience at the University Psychiatric Clinics (UPK) Basel.</p>
+  <div class="content">
+    <img src="images/Anna_Schaub-2023-005_©_Samuel_Bramley-WEB.jpg" width="256" height="350">
+    <p>I'm a psychologist and postdoctoral researcher in clinical neuroscience at the University Psychiatric Clinics (UPK) Basel.</p>
+  </div>
 </div>
+
+.container {
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
+  height: 100vh; /* Adjust height as needed */
+}
+
+.content {
+  display: flex;
+  align-items: center; /* Vertically center items */
+}
