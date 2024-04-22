@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home"}
  # - {file: "About.html", title: "About"}
-  - {file: "https://acschaub.github.io/Publications.pdf", title: "Publications"}
+  - {file: "https://github.com/acschaub/acschaub.github.io/blob/master/Publications.pdf", title: "Publications"}
   - {file: "Contact.md", title: "Contact"}
  # - {file: "README.md"}
 
