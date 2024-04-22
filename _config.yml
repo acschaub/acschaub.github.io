@@ -1,22 +1,21 @@
 title: "Anna-Chiara Schaub"
 author: "Anna-Chiara Schaub"
-permalink: /:title/
+permalink: /
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
+
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
+
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", title: "Home"}
+  - {file: "home.md"}
  # - {file: "About.html", title: "About"}
   - {file: "publications.md", title: "Publications"}
   - {file: "contact.md", title: "Contact"}
-
-plugins:
- - jekyll-feed
