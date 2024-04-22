@@ -15,11 +15,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", title: "Home"}
+  - {file: "home.md"}
  # - {file: "About.html", title: "About"}
   - {file: "publications.md", title: "Publications"}
   - {file: "contact.md", title: "Contact"}
- # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
  # - {title: Mail, icon: envelope, url: "mailto:annachiara.schaub@unibas.ch"}
