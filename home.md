@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /:home/
 ---
 
 I'm a psychologist and postdoctoral researcher in clinical neuroscience at the University Psychiatric Clinics (UPK) Basel.
