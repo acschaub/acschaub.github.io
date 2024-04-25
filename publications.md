@@ -18,14 +18,14 @@ layout: page
 - Schneider, E., **Schaub, A.-C.**, Roth, J., Schmidt, A. (2021). Darm und Depression. Psychiatrie + Neurologie. 
 
 ## Contributions to conferences 
-- **Schaub, A.-C.** (2023). Effects of unusual beliefs on context integration in perceptual processing. UPK research conference, 25 October, Basel, Switzerland.
+- **Schaub, A.-C.** (2023). Effects of unusual beliefs on context integration in perceptual processing (Presentation). UPK research conference, 25 October, Basel, Switzerland.
 - **Schaub, A.-C.** (2023). Investigating neural correlates of self-reported impulsivity: a dimensional structure- symptom approach across psychiatric diagnoses (Poster). Annual ECNP meeting 2023, 7-10 October 2023, Barcelona, Spain.
 - **Schaub, A.-C.** (2022). Brain changes in opioid-dependent subjects after prolonged diacetylmorphine treatment: 9 years of observation (Presentation). Swiss Addiction Research Day, 24 June, Bern, Switzerland. 
 - **Schaub, A.-C.** (2022). Clinical and gut microbial effects of a probiotic add-on therapy in depressed patients: A randomized controlled trial (Presentation). Psychologie und Gehirn 2022, 16-18 June, Freiburg, Germany.
 - **Schaub, A.-C.** (2021). Neural mapping of anhedonia across psychiatric diagnoses: a transdiagnostic neuroimaging analysis (Presentation). UPK research conference, 27 October, Basel, Switzerland.
 - **Schaub, A.-C.** (2021). The Gut-Brain Axis and Depression (Presentation). Padova Open Neuroscience Symposium, 07-09 October, Padua, Italy.
 - **Schaub, A.-C.** (2021). Microbial engraftment mediates antidepressant effect of probiotic supplementation in depressive patients: A randomized controlled trial (Presentation and Poster). Annual Meeting of the Swiss Society of Biological Psychiatry (SSBP),  17 September, Geneva, Switzerland.
-- **Schaub, A.-C.** (2021). Potential of a short-term, high-dose probiotic supplementation as adjuvant therapy in depression (Rapid fire Presentation). DKF Clinical Research Day, 28 January, University of Basel, Basel, Switzerland.
+- **Schaub, A.-C.** (2021). Potential of a short-term, high-dose probiotic supplementation as adjuvant therapy in depression (Rapid fire presentation). DKF Clinical Research Day, 28 January, University of Basel, Basel, Switzerland.
 - **Schaub, A.-C.**, & Schneider, E. (2020). Potential of probiotics supplementation as adjuvant treatment in depression (Presentation). UPK research conference, 28 October, Basel, Switzerland.
 
 ## Outreach Activities
