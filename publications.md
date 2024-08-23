@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Articles in peer-reviewed scientific journals
-- Sempach, L., Doll, J., Limbach, V., Marzetta, F., **Schaub, A.-C.**, Schneider, E., ... & Schmidt, A. (2024). Examining immune-inflammatory mechanisms of probiotic supplementation in depression: secondary findings from a randomized clinical trial. Preprint on *Research Square*. https://doi.org/10.21203/rs.3.rs-4145472/v1
+- Sempach, L., Doll, J. P., Limbach, V., Marzetta, F., **Schaub, A.-C.**, Schneider, E., ... & Schmidt, A. (2024). Examining immune-inflammatory mechanisms of probiotic supplementation in depression: secondary findings from a randomized clinical trial. *Translational Psychiatry*, 14(1), 305.
 - **Schaub, A.-C.**, Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F., Schmidt A. (2024). Brain alterations in individuals with exercise dependence: A multimodal neuroimaging investigation. *Journal of Behavioral Addictions*, 13(2), 565–575.
 - **Schaub, A.-C.**, Vogel, M., Lang, U. E., Kaiser, S., Walter, M., Herdener, M., ... & Schmidt, A. (2023). Transdiagnostic brain correlates of self-reported trait impulsivity: A dimensional structure-symptom investigation. *NeuroImage: Clinical*, 103423.
 - Yamanbaeva, G., **Schaub, A.-C.**, Schneider, E., Schweinfurth, N., Kettelhack, C., Doll, J.P.K., … Schmidt, A. (2023). Probiotic treatment effects on fronto-limbic brain structure, function, and perfusion in depression: a post-hoc multimodal neuroimaging analysis. *Journal of Affective Disorders*, 324, 529-538. (shared first authors)
