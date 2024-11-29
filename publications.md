@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications and outreach"
 layout: page
 ---
 
@@ -31,5 +31,6 @@ layout: page
 - **Schaub, A.-C.**, & Schneider, E. (2020). Potential of probiotics supplementation as adjuvant treatment in depression (Presentation). UPK research conference, 28 October, Basel, Switzerland.
 
 ## Outreach Activities
+- 11.2024 Guest at Arte Saloon (live talkshow) on the importance of microbes: [Können Mikroben alles?](https://www.youtube.com/watch?v=LLPWzLpNtaQ&t=3613s)
 - 06.2022 Guest at Podcast “The Mind, Body and Soul in Healing” by Dr. Harvey Schwartz: [“Probiotics added to antidepressants improve outcome: new preliminary research with Anna-Chiara Schaub"](https://open.spotify.com/episode/0uBVoqivSp1NHWkfYihKb6?si=WgTpEIZpRdWcXLxbCTXvcg)
 - 06.2022 [Article](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html) about probiotics in depression at Unibas News
