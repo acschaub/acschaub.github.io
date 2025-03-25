@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Articles in peer-reviewed scientific journals
+- Meyer, M., Wagner, A., Schmidt, A., **Schaub, A.-C.**, Lang, U. E., Walter, M., & Colledge, F. Stability of exercise addiction symptoms and co-occurring mental disorders: a follow-up study. *Frontiers in Psychiatry*, 16, 1494309.
 - Sempach, L., Doll, J. P., Limbach, V., Marzetta, F., **Schaub, A.-C.**, Schneider, E., ... & Schmidt, A. (2024). Examining immune-inflammatory mechanisms of probiotic supplementation in depression: secondary findings from a randomized clinical trial. *Translational Psychiatry*, 14(1), 305.
 - **Schaub, A.-C.**, Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F., Schmidt A. (2024). Brain alterations in individuals with exercise dependence: A multimodal neuroimaging investigation. *Journal of Behavioral Addictions*, 13(2), 565–575.
 - **Schaub, A.-C.**, Vogel, M., Lang, U. E., Kaiser, S., Walter, M., Herdener, M., ... & Schmidt, A. (2023). Transdiagnostic brain correlates of self-reported trait impulsivity: A dimensional structure-symptom investigation. *NeuroImage: Clinical*, 103423.
