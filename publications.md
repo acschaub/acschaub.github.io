@@ -14,6 +14,9 @@ layout: page
 - Doll, J. P., Vázquez-Castellanos, J. F., **Schaub, A.-C.**, Schweinfurth, N., Kettelhack, C., Schneider, E., ... & Lang, U. E. (2022). Fecal Microbiota Transplantation (FMT) as an Adjunctive Therapy for Depression—Case Report. *Frontiers in psychiatry*, 13.
 - **Schaub, A.-C.**, Kirschner, M., Schweinfurth, N., Mählmann, L., Kettelhack, C., Doll, J., Borgwardt, S., Lang, U. E., Kaiser, S., Walter. M., Herdener, M., Wrege, J., Schmidt, A. (2021). Neuronal mapping of anhedonia across psychiatric diagnoses: a transdiagnostic neuroimaging analysis. *Neuroimage-Clinical*, 32, Article 102825.
 
+## Preprints
+- **Schaub, A.-C.**, Eckert, A.-L., Nuiten, S. A., Weilnhammer, V., & Sterzer, P. (2025). Reduced weighting of short-term perceptual priors during auditory perceptual decision-making in psychosis-prone individuals. *PsyArXiv*.
+
 ## Articles in non-peer-reviewed professional journals
 - **Schaub, A.-C.** (2024). Mikrobiom und Depressionen. *Schweizer Zeitschrift für Ernährungsmedizin*.
 - Schneider, E., **Schaub, A.-C.**, Roth, J., Schmidt, A. (2021). *Darm und Depression. Psychiatrie + Neurologie*. 
