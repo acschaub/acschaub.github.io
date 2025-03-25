@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Articles in peer-reviewed scientific journals
-- Meyer, M., Wagner, A., Schmidt, A., **Schaub, A.-C.**, Lang, U. E., Walter, M., & Colledge, F. Stability of exercise addiction symptoms and co-occurring mental disorders: a follow-up study. *Frontiers in Psychiatry*, 16, 1494309.
+- Meyer, M., Wagner, A., Schmidt, A., **Schaub, A.-C.**, Lang, U. E., Walter, M., & Colledge, F. (2025). Stability of exercise addiction symptoms and co-occurring mental disorders: a follow-up study. *Frontiers in Psychiatry*, 16, 1494309.
 - Sempach, L., Doll, J. P., Limbach, V., Marzetta, F., **Schaub, A.-C.**, Schneider, E., ... & Schmidt, A. (2024). Examining immune-inflammatory mechanisms of probiotic supplementation in depression: secondary findings from a randomized clinical trial. *Translational Psychiatry*, 14(1), 305.
 - **Schaub, A.-C.**, Meyer, M., Tschopp, A., Wagner, A., Lang, U. E., Walter, M., Colledge, F., Schmidt A. (2024). Brain alterations in individuals with exercise dependence: A multimodal neuroimaging investigation. *Journal of Behavioral Addictions*, 13(2), 565–575.
 - **Schaub, A.-C.**, Vogel, M., Lang, U. E., Kaiser, S., Walter, M., Herdener, M., ... & Schmidt, A. (2023). Transdiagnostic brain correlates of self-reported trait impulsivity: A dimensional structure-symptom investigation. *NeuroImage: Clinical*, 103423.
@@ -23,6 +23,7 @@ layout: page
 - Schneider, E., **Schaub, A.-C.**, Roth, J., Schmidt, A. (2021). *Darm und Depression. Psychiatrie + Neurologie*. 
 
 ## Contributions to conferences 
+- **Schaub, A.-C.**, Weilnhammer, V., Eckert, A.-L., Sterzer, P. (2024). Psychosis proneness is associated with altered temporal dynamics in perceptual decision-making (poster). UPK research conference, 23 October, Basel, Switzerland.
 - **Schaub, A.-C.**, Eckert, A.-L. , Sterzer, P. (2024). Perceptual decision-making and short-term priors: Exploring the role of psychosis proneness (poster). FENS Forum, 25-29 June 2024, Vienna, Austria. 
 - **Schaub, A.-C.** (2023). Effects of unusual beliefs on context integration in perceptual processing (presentation). UPK research conference, 25 October, Basel, Switzerland.
 - **Schaub, A.-C.** (2023). Investigating neural correlates of self-reported impulsivity: a dimensional structure- symptom approach across psychiatric diagnoses (poster). Annual ECNP meeting 2023, 7-10 October 2023, Barcelona, Spain.
